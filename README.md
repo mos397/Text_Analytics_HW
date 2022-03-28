@@ -1,4 +1,6 @@
 # Text-Analytics
+Team members included Jenny Tseng, Jacob Padden, Michael Sparkman, Reid Heath
+
 There are currently three projects in this repository:
 
 1. [Analyzing competitive landscape in the midsized sedans market](https://github.com/mos397/Text_Analytics_HW/blob/main/midsized-sedans-comment-analysis.ipynb) using comments on Edmund.com
